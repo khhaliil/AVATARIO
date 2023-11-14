@@ -1,5 +1,5 @@
-<img  length ='200' width='150' src="demo.gif" alt="khhaliil" /></a> 
-<img   width='250' src="assets/Capture d'écran 2023-11-14 120443.png" alt="khhaliil" /></a> 
+<img  length ='200' width='150' src="assetss/demo.gif" alt="khhaliil" /></a> 
+<img   width='250' src="assetss/Capture d'écran 2023-11-14 120443.png" alt="khhaliil" /></a> 
 
 
 
@@ -20,7 +20,7 @@ Avatario is a comprehensive mobile application designed to engage children throu
 
 ## Reaserches 
 we based ourselves on reachers to make this App , and relations between *games perferomance* and *Medcial/psycholigcal heealth issues* : 
-<img    src="res.png" alt="khhaliil" /></a> 
+<img    src="assetss/res.png" alt="khhaliil" /></a> 
 
 # Child Mode: Games and Psychological Insights
 
@@ -47,7 +47,7 @@ In Child Mode, Avatario offers a variety of games designed to be both fun and ed
 # Avatario Chat Bot: Fine-Tuned with Medical Data
 for the moment , the Avatrio_Chat_Bot is not fully implemented in the mobile app 
 but heres a CLI test : 
-<img   src="chat.gif" alt="khhaliil" /></a> 
+<img   src="assetss/chat.gif" alt="khhaliil" /></a> 
 
 
 The Avatario chat bot is a cutting-edge component of the Avatario app, leveraging the RWKV language model developed by BlinkDL. This model uniquely combines RNN and Transformer architectures, offering high performance without the typical computational demands of self-attention mechanisms.
@@ -57,7 +57,7 @@ The Avatario chat bot is a cutting-edge component of the Avatario app, leveragin
 To tailor the chat bot for Avatario's specific needs, particularly in addressing children's health and emotional well-being, it underwent a specialized fine-tuning process. This fine-tuning was conducted on a unique dataset, "training.txt," comprising medical data carefully curated by our team. The dataset focuses on pediatric health, emotional intelligence, and child psychology, ensuring the chat bot's responses are relevant and sensitive to children's needs.
 
 Fine tuning demo : 
-<img  length ='400' width='650' src="assets/finetuning.gif" alt="khhaliil" /></a> 
+<img  length ='400' width='650' src="assetss/finetuning.gif" alt="khhaliil" /></a> 
 
 
 ## Utilization of Google Colab for Training
@@ -256,7 +256,7 @@ Reduction of Positional Bias: In QKV-Attention, queries and keys may be sensitiv
 
 ## Raven Architecture
 
-<img   width='800' src="v2-5c3f655d4ff16737f686c083c836cc0b_1440w.png" alt="khhaliil" /></a> 
+<img   width='800' src="assetss/v2-5c3f655d4ff16737f686c083c836cc0b_1440w.png" alt="khhaliil" /></a> 
 
 
 ## Evaluation
@@ -268,7 +268,7 @@ Reduction of Positional Bias: In QKV-Attention, queries and keys may be sensitiv
 | GPT4 alpaca lora| LLaMA      | 30             | 46.4 | 36.6 | 35.4 | 31.0  | 14.0      | 38.7    |           
 | ChatGPT         | GPT-3.5    | 70             | 70.0 | 49.6 | 64.1 | 90.5  | 48.1      | 64.5    |           
 
-<img   width='800' src="modelcomp.png" alt="khhaliil" /></a> 
+<img   width='800' src="assetss/modelcomp.png" alt="khhaliil" /></a> 
 
 ## Metrics understanding
 
