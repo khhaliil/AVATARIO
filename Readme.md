@@ -20,7 +20,7 @@ Avatario is a comprehensive mobile application designed to engage children throu
 
 ## Reaserches 
 we based ourselves on reachers to make this App , and relations between *games perferomance* and *Medcial/psycholigcal heealth issues* : 
-<img   width='250' src="res.png" alt="khhaliil" /></a> 
+<img    src="res.png" alt="khhaliil" /></a> 
 
 # Child Mode: Games and Psychological Insights
 
