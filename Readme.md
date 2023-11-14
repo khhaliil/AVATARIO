@@ -48,6 +48,10 @@ The Avatario chat bot is a cutting-edge component of the Avatario app, leveragin
 
 To tailor the chat bot for Avatario's specific needs, particularly in addressing children's health and emotional well-being, it underwent a specialized fine-tuning process. This fine-tuning was conducted on a unique dataset, "training.txt," comprising medical data carefully curated by our team. The dataset focuses on pediatric health, emotional intelligence, and child psychology, ensuring the chat bot's responses are relevant and sensitive to children's needs.
 
+Fine tuning demo : 
+<img  length ='400' width='650' src="assets/finetuning.gif" alt="khhaliil" /></a> 
+
+
 ## Utilization of Google Colab for Training
 
 Due to resource constraints on our local machines, the fine-tuning of the RWKV model for the Avatario chat bot was performed on Google Colab. This approach allowed us to leverage more powerful computational resources remotely. The fine-tuning process was conducted following the procedure outlined in the RWKV v4 RNN Pile Fine Tuning notebook, available at this URL: [RWKV Fine Tuning on Colab](https://colab.research.google.com/github/resloved/RWKV-notebooks/blob/master/RWKV_v4_RNN_Pile_Fine_Tuning.ipynb#scrollTo=wW5OmlXmvaIU).
