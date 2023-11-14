@@ -106,7 +106,7 @@ The "users" folder contains directories for individual Parents, each containing 
 
 The primary objective of this project was to explore the capabilities of the generative text model called RAVEN in its version 4, driven by an open-source community. Additionally, it aimed to assess the model's vision regarding future outputs and projects.
 
-# Project implementation :
+# Avatario ChatBotimplementation :
 ### Prerequirments
 Python 3.4+                                                       
 Virtualenv                      
