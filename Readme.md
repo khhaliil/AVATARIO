@@ -256,7 +256,7 @@ Reduction of Positional Bias: In QKV-Attention, queries and keys may be sensitiv
 
 ## Raven Architecture
 
-<img   width='800' src="./RavenApi/assets/RWKV-paper.png" alt="khhaliil" /></a> 
+<img   width='800' src="v2-5c3f655d4ff16737f686c083c836cc0b_1440w.png" alt="khhaliil" /></a> 
 
 
 ## Evaluation
@@ -268,7 +268,7 @@ Reduction of Positional Bias: In QKV-Attention, queries and keys may be sensitiv
 | GPT4 alpaca lora| LLaMA      | 30             | 46.4 | 36.6 | 35.4 | 31.0  | 14.0      | 38.7    |           
 | ChatGPT         | GPT-3.5    | 70             | 70.0 | 49.6 | 64.1 | 90.5  | 48.1      | 64.5    |           
 
-<img   width='800' src="./RavenApi/assets/modelcomp.png" alt="khhaliil" /></a> 
+<img   width='800' src="modelcomp.png" alt="khhaliil" /></a> 
 
 ## Metrics understanding
 
