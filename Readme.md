@@ -1,5 +1,6 @@
+<img   width='450' src="assetss/Capture d'écran 2023-11-14 120443.png" alt="khhaliil" /></a> 
 <img  length ='300' width='250' src="assetss/demo.gif" alt="khhaliil" /></a> 
-<img   width='250' src="assetss/Capture d'écran 2023-11-14 120443.png" alt="khhaliil" /></a> 
+
 
 
 
@@ -47,7 +48,10 @@ In Child Mode, Avatario offers a variety of games designed to be both fun and ed
 - **Parental Guidance and Support:** The app offers resources and guidance for parents to address identified challenges effectively.
 
 
-
+we have intergrated an AI classifier that analyses a game Perf and predict if the child has some issuees :
+for the moment we have only treated one disease and we plan to extend. 
+it is in the Model_jeux.py doc 
+<img   src="mod.png" alt="khhaliil" /></a> 
 
 
 # Avatario Chat Bot: Fine-Tuned with Medical Data
