@@ -2,6 +2,42 @@
 <img   width='250' src="assets/Capture d'écran 2023-11-14 120443.png" alt="khhaliil" /></a> 
 <img   width='250' src="./RavenApi/assets/esprit.png" alt="khhaliil" /></a> 
 
+
+
+
+# Global App Functionalities
+
+## Overview
+
+Avatario is a comprehensive mobile application designed to engage children through a customizable avatar. This avatar grows and evolves as children interact with various games and activities within the app. The primary goal of Avatario is to provide a fun and interactive learning environment while simultaneously offering tools for parents to monitor and understand their children's developmental progress.
+
+## Key Features
+
+- **Customizable Avatars:** Children can personalize their avatars, making the learning experience more engaging and relatable.
+- **Diverse Games and Activities:** A wide range of games is available, each focusing on different skill sets, including cognitive, emotional, and social development.
+- **Parental Dashboard:** Parents can access the app to track their child's progress, identify learning difficulties or emotional challenges, and receive tailored advice.
+- **Educational Insights:** The app provides insights and tips for parents to better support their child's learning journey.
+
+# Child Mode: Games and Psychological Insights
+
+## Interactive Learning through Games
+
+In Child Mode, Avatario offers a variety of games designed to be both fun and educational. These games cater to different age groups and learning stages, ensuring a tailored experience for each child.
+
+## Games and Their Psychological Benefits
+
+- **Cognitive Development:** Games focused on memory, problem-solving, and critical thinking help in enhancing cognitive abilities.
+- **Emotional Intelligence:** Activities that involve understanding emotions, empathy, and communication contribute to emotional maturity.
+- **Social Skills:** Interactive games that encourage collaboration, sharing, and teamwork help in developing social skills.
+
+## Relationship to Psychological Well-Being
+
+- **Identifying Learning Difficulties:** Games are designed to subtly assess and flag potential learning difficulties, providing early intervention opportunities.
+- **Emotional Health Monitoring:** Through gameplay patterns and interactions, the app can help identify emotional distress or behavioral changes.
+- **Parental Guidance and Support:** The app offers resources and guidance for parents to address identified challenges effectively.
+
+
+
 # Avatario Chat Bot 1.0
 
 
