@@ -43,12 +43,12 @@ In Child Mode, Avatario offers a variety of games designed to be both fun and ed
 
 # Directory structure :
 ```
-├───RavenApi                   
-│   20B_tokenizer.json                                                
-│   convert_model.py                                     
-│   RavenApi.py                                               
-│   RavenCloud.py                                           
-│    Avatario.ipynb                                              
+                 
+│20B_tokenizer.json                                                
+│convert_model.py                                     
+│RavenApi.py                                               
+│RavenCloud.py                                           
+│Avatario.ipynb                                              
 │
 ├───├instructions
 │       ProjectAdvisor.py                                            
@@ -56,7 +56,7 @@ In Child Mode, Avatario offers a variety of games designed to be both fun and ed
 │
 └───├users                                                                                                 
 ```
-### RavenApi folder :
+### Explications :
 
 -20B_tokenizer.json: The model's tokenizer, essential for processing text inputs.
 
@@ -71,17 +71,17 @@ In Child Mode, Avatario offers a variety of games designed to be both fun and ed
 
 ### instructions folder :
 
--ProjectAdvisor.py: An initial prompt that guides the model to function as a ProjectAdvisor.
+-ProjectAdvisor.py: An initial prompt that guides the model to function as a Medical assistant.
 
--SQLAdvisor.py: An initial prompt that guides the model to function as an SQLAdvisor. 
+
 
 Restricting the model to specific use cases allows for better control and performance.
 ### users folder :
 
-The "users" folder contains directories for individual users, each containing their respective conversations.
+The "users" folder contains directories for individual Parents, each containing their respective conversations.
 
 
-# Project Explanation :
+# Chatbot Explanation :
 
 The primary objective of this project was to explore the capabilities of the generative text model called RAVEN in its version 4, driven by an open-source community. Additionally, it aimed to assess the model's vision regarding future outputs and projects.
 
@@ -170,39 +170,6 @@ windows:
 Install VS2022 build tools (https://aka.ms/vs/17/release/vs_BuildTools.exe select Desktop C++). Reinstall CUDA 11.7 (install VC++ extensions). Run v2/chat.py in "x64 native tools command prompt". 
 
 
-# RavenAPI
-To use :
-
-```
-cd  Avatario/RavenApi
-```
-
-```
-python RavenApi.py
-```
-
-Then send a POST request at this address: http://localhost:8000/generate-response
-
-in this syntax : 
-```
-{
-  "user_message": " summarize our last conversation  ",
-  "user_id": "22",
-  "discussion_id": "4",
-  "prompt_file": "ProjectAdvisor"
-}
-
-```
-the response will be as the follow : 
-```
-{
-    "generated_text": " Sure, here's a summary of our conversation:\n1. I created a new file called `Home.js` and added some basic HTML and CSS to it.\n2. I created a new file called `index.js` and added some basic code to it, including a function that sends a request to the MySQL database using the `axios` library.\n3. I created a new file called `App.js` and added some basic code to it, including a function that renders the Home component using the `ReactDOM.render()` method.\n4. I created a new file called `index.css` and added some basic styles to it, including a logo and some basic styling for the page\n\n"
-}
-```
-You can use ProjectAdvisor.py or SQLAdvisor.py 
-
-PS : choose the proper strategy for your own hardware configuration while loading the RWKV model in RavenCloud.py or RavenApi.py
-
 
 you can see other strategy options [HERE](https://github.com/BlinkDL/ChatRWKV/blob/main/ChatRWKV-strategy.png)
 
@@ -220,6 +187,9 @@ Then you can interact with the model directly through the terminal.
 <img   width='800' src="./RavenApi/assets/chatex.png" alt="khhaliil" /></a> 
 
 ### Performance 
+
+Here because we have no time nore ressources we used RWKV RAVEN 4 196M parameterts but in the future we will use the 7B version :
+heres why :
 
 The 7B model performs exceptionally well on Google Colab's NVIDIA V100 and Tesla T4, consuming 20 GB of RAM for loading and 16 GB of VRAM. The strategy used for this model is CUDA FP16, with the first layer on the CPU and layers 2 to 33 on the GPU.
 
@@ -256,8 +226,6 @@ Capturing Long-Distance Dependencies: RWKV Linear-Attention is designed to bette
 
 Reduction of Positional Bias: In QKV-Attention, queries and keys may be sensitive to the position of elements in the sequence, leading to positional bias. RWKV Linear-Attention, with its linear reference, can reduce this bias and improve the model's robustness.
 
-
-<img   width='800' src="./RavenApi/assets/RWKV-formula.png" alt="khhaliil" /></a> 
 
 ## Raven Architecture
 
@@ -310,13 +278,10 @@ Raven v12 scores 31.8 for CRASS, while GPT4 alpaca lora has a similar score of 3
 Raven v12 scores 11.6 for HumanEval, while GPT4 alpaca lora scores 14.0. A higher HumanEval score for Raven v12 suggests that it is better perceived by human evaluators.
 
 
-# Conclusion 
+# Conclusion on the Avatario ChatBot
 
 Raven v4, a model based on the foundation of RWKV-4 has a promising architecture, however, the version of its weights trained by the community is not very powerful, the model can perform basic tasks like writing SQL queries and simple code in Python or Java for example, but if you want to use it as a project structure it will not be able to guide you very well, because of its obsolete training data. Nevertheless, it's a good model for understanding and following the thread of a discussion. The important thing is that the model has an architecture that favors its low-cost training and that with well-chosen custom training data, it can be worth a gpt-3.5 or even better and more specialized, depending on your data.
-
-
-
-[Here](https://www.canva.com/design/DAFl0PMO1Fc/D1k7EG1VMgPtTtLGnIJnuA/edit?utm_content=DAFl0PMO1Fc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) is a presentation for the RWKV model in the Wevioo intenship context. 
+ 
 
 Check the paper RWKV: Reinventing RNNs for the Transformer Era [HERE](https://arxiv.org/abs/2305.13048)
 # Possibilities 
@@ -327,7 +292,7 @@ Projects with Raven v4 would be simple chatbots that would respond on demand eit
 # Credits : 
  Credits for the RWKV-4-Raven model goes to [BlinkDL](RWKV-4-Raven)                                       
  
- Credits for project structure and implementation goes to [Med Karim Akkari](https://linkedin.com/in/karim-akkari-9613661bb/)
+
 
 
 
