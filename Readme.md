@@ -43,7 +43,7 @@ In Child Mode, Avatario offers a variety of games designed to be both fun and ed
 # Avatario Chat Bot: Fine-Tuned with Medical Data
 for the moment , the Avatrio_Chat_Bot is not fully implemented in the mobile app 
 but heres a CLI test : 
-<img  width='805' src="https://www.veed.io/view/fc13e04c-ae5e-4b22-a504-081ac5304862?panel=share" alt="khhaliil" /></a> 
+<img  width='805' src="[https://www.veed.io/view/fc13e04c-ae5e-4b22-a504-081ac5304862?panel=share](https://www.veed.io/view/fc13e04c-ae5e-4b22-a504-081ac5304862)" alt="khhaliil" /></a> 
 
 
 The Avatario chat bot is a cutting-edge component of the Avatario app, leveraging the RWKV language model developed by BlinkDL. This model uniquely combines RNN and Transformer architectures, offering high performance without the typical computational demands of self-attention mechanisms.
