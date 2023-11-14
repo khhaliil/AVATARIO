@@ -1,6 +1,6 @@
 <img  length ='200' width='150' src="demo.gif" alt="khhaliil" /></a> 
-<img   width='400' src="assets/Capture d'écran 2023-11-14 120443.png" alt="khhaliil" /></a> 
-<img   width='400' src="./RavenApi/assets/esprit.png" alt="khhaliil" /></a> 
+<img   width='250' src="assets/Capture d'écran 2023-11-14 120443.png" alt="khhaliil" /></a> 
+<img   width='250' src="./RavenApi/assets/esprit.png" alt="khhaliil" /></a> 
 
 # Avatario Chat Bot 1.0
 
