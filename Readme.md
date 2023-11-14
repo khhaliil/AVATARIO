@@ -1,4 +1,4 @@
-<img  length ='200' width='150' src="assetss/demo.gif" alt="khhaliil" /></a> 
+<img  length ='300' width='250' src="assetss/demo.gif" alt="khhaliil" /></a> 
 <img   width='250' src="assetss/Capture d'écran 2023-11-14 120443.png" alt="khhaliil" /></a> 
 
 
@@ -11,12 +11,18 @@
 
 Avatario is a comprehensive mobile application designed to engage children through a customizable avatar. This avatar grows and evolves as children interact with various games and activities within the app. The primary goal of Avatario is to provide a fun and interactive learning environment while simultaneously offering tools for parents to monitor and understand their children's developmental progress.
 
+
+
 ## Key Features
 
 - **Customizable Avatars:** Children can personalize their avatars, making the learning experience more engaging and relatable.
 - **Diverse Games and Activities:** A wide range of games is available, each focusing on different skill sets, including cognitive, emotional, and social development.
 - **Parental Dashboard:** Parents can access the app to track their child's progress, identify learning difficulties or emotional challenges, and receive tailored advice.
 - **Educational Insights:** The app provides insights and tips for parents to better support their child's learning journey.
+
+## Main architecture 
+thats a shema thats summarize the projeect Arch and the communication between parent - child - AvatarioBot 
+<img   src="arch.png" alt="khhaliil" /></a> 
 
 ## Reaserches 
 we based ourselves on reachers to make this App , and relations between *games perferomance* and *Medcial/psycholigcal heealth issues* : 
