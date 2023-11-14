@@ -211,9 +211,7 @@ RWKV python implementation can be found [HERE](https://pypi.org/project/rwkv/)
 cd  Avatario/RavenApi
 python RavenApi.py
 ```
-Then you can interact with the model directly through the terminal.
 
-<img   width='800' src="./RavenApi/assets/chatex.png" alt="khhaliil" /></a> 
 
 ### Performance 
 
