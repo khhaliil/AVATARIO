@@ -1,6 +1,6 @@
 <img  length ='200' width='150' src="demo.gif" alt="khhaliil" /></a> 
 <img   width='250' src="assets/Capture d'écran 2023-11-14 120443.png" alt="khhaliil" /></a> 
-<img   width='250' src="./RavenApi/assets/esprit.png" alt="khhaliil" /></a> 
+
 
 
 
@@ -43,7 +43,7 @@ In Child Mode, Avatario offers a variety of games designed to be both fun and ed
 # Avatario Chat Bot: Fine-Tuned with Medical Data
 for the moment , the Avatrio_Chat_Bot is not fully implemented in the mobile app 
 but heres a CLI test : 
-<img  width='805' src="https://drive.google.com/file/d/1O5YAl_jzCyq5GaG2Za90EdSfMI4NkKir/view?usp=sharing" alt="khhaliil" /></a> 
+<img   src="chat.gif" alt="khhaliil" /></a> 
 
 
 The Avatario chat bot is a cutting-edge component of the Avatario app, leveraging the RWKV language model developed by BlinkDL. This model uniquely combines RNN and Transformer architectures, offering high performance without the typical computational demands of self-attention mechanisms.
