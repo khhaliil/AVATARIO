@@ -30,7 +30,7 @@ In Child Mode, Avatario offers a variety of games designed to be both fun and ed
 - **Emotional Intelligence:** Activities that involve understanding emotions, empathy, and communication contribute to emotional maturity.
 - **Social Skills:** Interactive games that encourage collaboration, sharing, and teamwork help in developing social skills.
 
-## Relationship to Psychological Well-Being
+## Relationship to Psychological and medical Well-Being
 
 - **Identifying Learning Difficulties:** Games are designed to subtly assess and flag potential learning difficulties, providing early intervention opportunities.
 - **Emotional Health Monitoring:** Through gameplay patterns and interactions, the app can help identify emotional distress or behavioral changes.
