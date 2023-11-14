@@ -18,6 +18,10 @@ Avatario is a comprehensive mobile application designed to engage children throu
 - **Parental Dashboard:** Parents can access the app to track their child's progress, identify learning difficulties or emotional challenges, and receive tailored advice.
 - **Educational Insights:** The app provides insights and tips for parents to better support their child's learning journey.
 
+## Reaserches 
+we based ourselves on reachers to make this App , and relations between *games perferomance* and *Medcial/psycholigcal heealth issues* : 
+<img   width='250' src="assets/Capture d'écran 2023-11-14 120443.png" alt="khhaliil" /></a> 
+
 # Child Mode: Games and Psychological Insights
 
 ## Interactive Learning through Games
