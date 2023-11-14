@@ -1,5 +1,5 @@
 <p align="center">
-  <img width='450' src="assetss/Capture d'écran 2023-11-14 120443.png" alt="khhaliil" />
+  <img width='250' src="assetss/Capture d'écran 2023-11-14 120443.png" alt="khhaliil" />
 </p>
 <p align="center">
   <img length='300' width='250' src="assetss/demo.gif" alt="khhaliil" />
